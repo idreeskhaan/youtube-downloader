@@ -1,8 +1,8 @@
 # youtubeDownloader
 A basic GUI app for downloading audio and video files from youtube
 
-## How to Run
-python3 -m main.py
+## How to Run ?
+`python3 -m main.py`
 
 
 ## GUI 
