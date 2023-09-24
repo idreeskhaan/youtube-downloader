@@ -1,5 +1,5 @@
 # youtubeDownloader
-A basic GUI app for downloading audio and videos from youtube
+A basic GUI app for downloading audio and video files from youtube
 
 
 ## GUI 
