@@ -2,7 +2,7 @@
 A basic GUI app for downloading audio and video files from youtube
 
 ## How to Run ?
-`python3 -m main.py`
+`python3 main.py`
 
 
 ## GUI 
